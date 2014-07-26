@@ -5,6 +5,6 @@ get '/hi' do
   array.each {|x| puts x}
 end
 
-get '/hey' do
+get '/' do
   erb :index
 end
