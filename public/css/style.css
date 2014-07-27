@@ -1,6 +1,11 @@
-body {
-  background-color: #CFFBBB;
-}
+/*body {*/
+	/*background-color: #ddd;*/
+	/*max-width:600px;*/
+	/*text-align: center;*/
+	/*margin:auto;*/
+	/*margin-top: 40px;*/
+
+/*}*/
 
 h1 {
   font-family: Helvetica;
@@ -17,4 +22,9 @@ h1 {
 .footer-item {
     display: inline-block;
     padding-left:20px;
+}
+
+.main {
+	background-color: #fff;
+	max-height: 100%;
 }
