@@ -11,7 +11,7 @@ h1 {
   font-family: Helvetica;
 }  
 
-#holiday.america {
+.america {
     background-image: url("../images/american-flag-600.jpg");
 }
 
