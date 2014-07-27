@@ -1,7 +1,13 @@
 body {
-  background-color: #CFFBBB;
+	background-color: #ddd;
+	max-width:600px;
+	text-align: center;
+	margin:auto;
+	margin-top: 40px;
+
 }
 
-h1 {
-  font-family: Helvetica;
-}  
+.main {
+	background-color: #fff;
+	max-height: 100%;
+}
