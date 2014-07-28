@@ -1,11 +1,17 @@
-/*body {*/
-	/*background-color: #ddd;*/
-	/*max-width:600px;*/
-	/*text-align: center;*/
-	/*margin:auto;*/
-	/*margin-top: 40px;*/
+body {
+    background-color: #ddd;
+    max-width:600px;
+    text-align: center;
+    margin:auto;
+    margin-top: 40px;
 
-/*}*/
+}
+
+.main {
+    background-color: #fff;
+    max-height: 100%;
+}
+
 .brandup {   float:left;
     clear:left;
     margin:5px;
@@ -26,9 +32,4 @@ h1 {
 .footer-item {
     display: inline-block;
     padding-left:20px;
-}
-
-.main {
-	background-color: #fff;
-	max-height: 100%;
 }
