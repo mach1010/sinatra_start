@@ -14,13 +14,14 @@ get '/about_us' do
 end
 
 get '/contact' do
- redirect to '/about_us'
+  redirect to '/about_us'
 end
 
 get '/FAQ' do
 end
 
 get '/blog' do
+  erb :blog
 end
 
 get '/products' do

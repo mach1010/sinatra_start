@@ -1,13 +1,35 @@
 body {
-	background-color: #ddd;
-	max-width:600px;
-	text-align: center;
-	margin:auto;
-	margin-top: 40px;
+    background-color: #ddd;
+    max-width:600px;
+    text-align: center;
+    margin:auto;
+    margin-top: 40px;
 
 }
 
 .main {
-	background-color: #fff;
-	max-height: 100%;
+    background-color: #fff;
+    max-height: 100%;
+}
+
+.brandup {   float:left;
+    clear:left;
+    margin:5px;
+}
+
+h1 {
+  font-family: Helvetica;
+}  
+
+.america {
+    background-image: url("../images/american-flag-600.jpg");
+}
+
+.site-footer-list {
+    list-style: none outside none;
+}
+
+.footer-item {
+    display: inline-block;
+    padding-left:20px;
 }
